@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Yihan Tu (Ethan)",
+    "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://ethantwo2022.github.io/",
+    "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
@@ -69,7 +69,7 @@
       "name": "Geotri-VIO: geometrically consistent multi-prism projection for panoramic imaging in visual-inertial-odometry",
       "publisher": "Satellite Navigation",
       "releaseDate": "2025-07-21",
-      "website": "https://academicpages.github.io/files/Geotri_vio.pdf",
+      "website": "https://academicpages.github.io/files/files/Geotri_vio.pdf",
       "summary": "A novel visual-inertial odometry system using panoramic imaging with geometrically consistent multi-prism projection."
     },
     {
