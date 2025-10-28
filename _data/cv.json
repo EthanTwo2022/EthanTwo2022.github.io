@@ -71,34 +71,6 @@
       "releaseDate": "2025-07-21",
       "website": "https://ethantwo2022.github.io/files/Geotri_vio.pdf",
       "summary": "A novel visual-inertial odometry system using panoramic imaging with geometrically consistent multi-prism projection."
-    },
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://ethantwo2022.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://ethantwo2022.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://ethantwo2022.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://ethantwo2022.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
@@ -149,11 +121,26 @@
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Robocon 2022: 同创辉煌",
       "category": "portfolio",
-      "date": "",
+      "date": "2022-08-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Short description of portfolio item number 1<br/><img src='/images/robocon2022.png'>"
+    },
+    {
+      "name": "Robocon 2023: 沙排之王",
+      "category": "portfolio",
+      "date": "2023-08-01",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/robocon2023.png'>"
+    },
+    {
+      "name": "Geotri-VIO: 全景视觉惯性里程计",
+      "category": "portfolio",
+      "date": "2025-07-21",
+      "url": "",
+      "description": "一个基于几何一致性多棱镜投影的、用于全景相机的视觉-惯性里程计系统。<br/><img src='/images/geotrivio.png'>"
     }
+
   ]
 }
