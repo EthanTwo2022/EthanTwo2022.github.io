@@ -66,6 +66,13 @@
   "references": [],
   "publications": [
     {
+      "name": "Geotri-VIO: geometrically consistent multi-prism projection for panoramic imaging in visual-inertial-odometry",
+      "publisher": "Satellite Navigation",
+      "releaseDate": "2025-07-21",
+      "website": "https://academicpages.github.io/files/files/Geotri_vio.pdf",
+      "summary": "A novel visual-inertial odometry system using panoramic imaging with geometrically consistent multi-prism projection."
+    },
+    {
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
       "releaseDate": "2009-10-01",

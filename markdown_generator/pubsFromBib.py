@@ -27,7 +27,8 @@ import re
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
     "proceeding": {
-        "file" : "proceedings.bib",
+        # "file" : "proceedings.bib",
+        "file" : "../files/bibtex1.bib",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
@@ -35,7 +36,8 @@ publist = {
         
     },
     "journal":{
-        "file": "pubs.bib",
+        # "file": "pubs.bib",
+        "file": "../files/bibtex1.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
