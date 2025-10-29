@@ -2,7 +2,7 @@
 title: "Geotri-VIO: 全景视觉惯性里程计"
 collection: portfolio
 permalink: /portfolio/geotri-vio
-excerpt: "A VIO system for panoramic cameras based on a geometrically consistent multi-prism projection model. <br/>一个基于几何一致性多棱镜投影的、用于全景相机的视觉-惯性里程计系统。<br/><img src='/images/geotrivio.png'>"
+excerpt: "A VIO system for panoramic cameras based on a geometrically consistent multi-prism projection model.<br/><img src='/images/geotrivio.png'>"
 date: 2025-07-21
 header:
   teaser: "/images/geotrivio.png" # (!!!) 这是一个占位符

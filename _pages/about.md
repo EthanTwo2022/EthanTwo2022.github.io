@@ -8,8 +8,13 @@ redirect_from:
 ---
 
 ## About Me
+Hello! I'm YiHan Tu (Ethan Tu), a passionate researcher in the fields of **Embodied Intelligence** and **Spatial Intelligence**.
 
-I'm a Master's student at [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/), advised by [Prof. Hui Cheng](http://lab.sysu-robotics.com/). My research focuses on the intersection of computer vision and robotics.
+I am currently a Master's student at the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/), where I am a member of the [RAPID Lab](http://lab.sysu-robotics.com/) under the supervision of Professor [Hui Cheng](https://cse.sysu.edu.cn/teacher/ChengHui).
+
+Previously, I completed my undergraduate studies at the [College of Information Science and Engineering](http://www.ise.neu.edu.cn/) at [Northeastern University](https://www.neu.edu.cn/). During my undergraduate years, I was a researcher at the [ACTION Lab](https://space.bilibili.com/434847356) focusing on 3D perception for robotics, advised by Professor Dehong Cong.
+
+I am **actively seeking a PhD position** to further my research in these areas.
 
 ## Research Interests
 
