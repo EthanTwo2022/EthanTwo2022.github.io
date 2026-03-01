@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Computer Science and Engineering**, Sun Yat-sen University, 2023 - Present
+  * Member of [RAPID Lab](http://lab.sysu-robotics.com/)
+  * Supervisor: Professor [Hui Cheng](https://cse.sysu.edu.cn/teacher/ChengHui)
+* **B.S. in Information Science and Engineering**, Northeastern University, 2019 - 2023
+  * Member of [ACTION Lab](https://space.bilibili.com/434847356)
+  * Advisor: Professor Dehong Cong
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2023 - Present: Graduate Research Assistant**
+  * RAPID Lab, Sun Yat-sen University
+  * Research focus: Sensor calibration, Visual-Inertial Odometry, SLAM
+  * Supervisor: Professor Hui Cheng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **2021 - 2023: Undergraduate Researcher**
+  * ACTION Lab, Northeastern University
+  * Research focus: 3D perception for robotics
+  * Advisor: Professor Dehong Cong
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** C/C++, Python, MATLAB
+* **Robotics & Vision:**
+  * ROS/ROS2
+  * OpenCV, PCL
+  * SLAM systems (VINS, LIO-SAM, etc.)
+* **Deep Learning:** PyTorch, TensorFlow
+* **Tools:** Git, Docker, LaTeX
 
 Publications
 ======
@@ -47,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +56,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->

@@ -29,6 +29,7 @@ You can find my papers on the [Publications](/publications/) page or see my rece
 [Email](mailto:ethantwo2022@foxmail.com) / [Github](https://github.com/EthanTwo2022) / [Google Scholar](https://scholar.google.com/citations?user=nIaIctkAAAAJ)
 
 ## News
+* **[Apr. 2026]** Our paper, "OmniVIL-Calib: Target-Free Joint Calibration for Omnidirectional Camera, IMU, and LiDAR," has been published in *IEEE Robotics and Automation Letters (RA-L)*! [[Paper]](https://ieeexplore.ieee.org/document/11373854) [[Code]](https://github.com/EthanTwo2022/omniVIL_Calib)
 * **[Jul. 2025]** Our paper, "Geotri-VIO: geometrically consistent multi-prism projection for panoramic imaging in visual-inertial-odometry," has been accepted to *Satellite Navigation*!
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
