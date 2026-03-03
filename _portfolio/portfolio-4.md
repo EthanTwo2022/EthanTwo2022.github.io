@@ -2,10 +2,8 @@
 title: "OmniVIL-Calib: 全向相机-IMU-激光雷达联合标定"
 collection: portfolio
 permalink: /portfolio/omnivil-calib
-excerpt: "A target-free, mapping-free framework for joint spatiotemporal calibration of omnidirectional camera, IMU, and LiDAR systems."
+excerpt: "A target-free, mapping-free framework for joint spatiotemporal calibration of omnidirectional camera, IMU, and LiDAR systems.<br/><img src='/images/omnivil.png' width='66%'>"
 date: 2026-04-01
-header:
-  teaser: "/images/omnivil.png"
 ---
 
 ## Overview / 项目概览
