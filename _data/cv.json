@@ -88,7 +88,7 @@
       "category": "portfolio",
       "date": "2026-04-01",
       "url": "",
-      "description": "一个无需标定板和地图的全向相机、IMU、激光雷达联合时空标定框架。<br/><img src='/images/omnivilcalib.png'>"
+      "description": "一个无需标定板和地图的全向相机、IMU、激光雷达联合时空标定框架。<br/><img src='/images/omnivil.png'>"
     },
     {
       "name": "Geotri-VIO: 全景视觉惯性里程计",

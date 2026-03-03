@@ -5,7 +5,7 @@ permalink: /portfolio/omnivil-calib
 excerpt: "A target-free, mapping-free framework for joint spatiotemporal calibration of omnidirectional camera, IMU, and LiDAR systems."
 date: 2026-04-01
 header:
-  teaser: "/images/omnivilcalib.png"
+  teaser: "/images/omnivil.png"
 ---
 
 ## Overview / 项目概览
