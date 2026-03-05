@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Computer Science and Engineering**, Sun Yat-sen University, 2023 - Present
+* **M.Eng. in Computer Technology**, Sun Yat-sen University, 2024 - Present
   * Member of [RAPID Lab](http://lab.sysu-robotics.com/)
   * Supervisor: Professor [Hui Cheng](https://cse.sysu.edu.cn/teacher/ChengHui)
-* **B.S. in Information Science and Engineering**, Northeastern University, 2019 - 2023
+* **B.Eng. in Industrial Intelligence**, Northeastern University, 2020 - 2024
   * Member of [ACTION Lab](https://space.bilibili.com/434847356)
   * Advisor: Professor Dehong Cong
 
