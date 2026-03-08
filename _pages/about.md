@@ -14,7 +14,7 @@ I am currently a Master's student at the School of Computer Science and Engineer
 
 Previously, I completed my undergraduate studies at the College of Information Science and Engineering at [Northeastern University](https://www.neu.edu.cn/). During my undergraduate years, I was a researcher at the [ACTION Lab](https://space.bilibili.com/434847356) focusing on 3D perception for robotics, advised by Professor Dehong Cong.
 
-I am **actively seeking a PhD position** to further my research in these areas.
+I am **actively seeking a PhD position (Fall 2027)** to further my research in these areas.
 
 ## Research Interests
 
