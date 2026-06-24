@@ -19,12 +19,14 @@ I am **actively seeking a PhD position (starting from Fall 2027)** to further my
 ## Research Interests
 
 I am particularly interested in the following topics:
-* 3D Vision and Reconstruction
-* Sensor Fusion (e.g., LiDAR, IMU, and Camera)
-* Simultaneous Localization and Mapping (SLAM)
-* Robotics
+* Embodied AI (Manipulation and Navigation)
+* World Models for Robotics and Physical Interaction Simulation
+* Semantic and Affordance-aware Mapping
+* 3D Vision, SLAM, and Sensor Fusion
 
 You can find my papers on the [Publications](/publications/) page or see my recent projects on the [Portfolio](/portfolio/) page.
+
+If you are interested in my past work or future research directions, feel free to reach out via [Email](mailto:ethantwo2022@foxmail.com) — I'd love to chat!
 
 [Email](mailto:ethantwo2022@foxmail.com) / [Github](https://github.com/EthanTwo2022) / [Google Scholar](https://scholar.google.com/citations?user=nIaIctkAAAAJ)
 
